@@ -2,7 +2,7 @@
 
 ----
 
-##Nomes e RM dos Integrantes
+## Nomes e RM dos Integrantes
 - Matheus Taylor, RM556211
 - Henrique Maldonado
 
